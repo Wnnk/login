@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+label{
+    display: inline-block;
+    min-width: 100%;
+}
+
+.up{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+.form{
+    width: 30%;
+    background-color: #999;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+
+.form p{
+    visibility: hidden;
+    color: red;
+}
+
+.form h3{
+    text-align: center;
+}
